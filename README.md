@@ -1,5 +1,4 @@
 ---
-#HELLO WORLD
 title: Minimal
 emoji: 🌍
 colorFrom: pink
