@@ -1,5 +1,5 @@
 import gradio as gr
-#Hello world
+#Hello world greetings
 def greet(name):
     return "Hello " + name + "!!"
 
